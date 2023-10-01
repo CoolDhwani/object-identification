@@ -1,0 +1,13 @@
+body{
+    background-size:cover;
+    font-size: larger;
+}
+a{
+    background-color: white;
+    color: black;
+    border-radius:10px; 
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
